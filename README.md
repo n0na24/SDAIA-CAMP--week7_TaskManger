@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/73d73621-85b1-4626-989e-32fa1c9a1c6f" /># Task Management System
+# Task Management System
 This is a simple API to help teams manage their tasks. It is built using FastAPI and saves data in two ways at the same time: in JSON files and a SQLite Database.
 
 ## How the project is organized
